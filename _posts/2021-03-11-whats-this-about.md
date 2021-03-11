@@ -7,5 +7,4 @@ tags: [What is this about]
 pin: true
 ---
 
-## What's this about?
-The idea is to blog or record my cybersecurity journey; from articles, to rooting boxes and other vulnerabilities.
+The idea is to have a record of my cybersecurity journey. From articles, rooting boxes walkthroughs, interesting vulnerabilities and findings from Red Teaming experiences (nothing confidential of course)..
